@@ -5,3 +5,7 @@ output "rgnames" {
 output "rgids" {
   value = azurerm_resource_group.rgs.id
 }
+
+output "rglocation" {
+  value = azurerm_resource_group.rgs.location
+}
