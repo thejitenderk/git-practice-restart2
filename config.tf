@@ -2,7 +2,7 @@ provider "azurerm" {
   features {
     
   }
-  subscription_id = ""
+  subscription_id = "1e3a2a89-cbb0-4fb7-9e68-6108392090e8"
 }
 
 Hello from branch1
